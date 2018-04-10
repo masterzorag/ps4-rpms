@@ -1,0 +1,5 @@
+[ps4]
+name=ps4-rpms
+baseurl=https://raw.githubusercontent.com/masterzorag/ps4-rpms/master/RPMS
+enabled=1
+gpgcheck=0
